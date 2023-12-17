@@ -25,16 +25,16 @@ import moment from 'moment-timezone'
 
 /*==============USER-INFO==============*/
 global.owner = [
-  ['8801853262586', 'ꜱʟᴀꜱʜᴇʀ ᴏꜰꜰɪᴄɪᴀʟ', true], 
+  ['2348123035565', 'Tim-sensei 👿', true], 
   ['put your number', 'your-name', true] 
 ] 
 
-global.mods = ['put-your-number','8801853262586'] //Don't replace this,If you want to add someone add any dev
-global.prems = ['put-premium-user-number','']
-global.nomorbot = 'your-bot-number' //Change it to your own
-global.nomorown = 'owner-number' //Change it to your own
-global.namebot = 'bot-name' //change it to your own
-global.nameown = 'owner-name' // change it to your own
+global.mods = ['put-your-number','2348123035565'] //Don't replace this,If you want to add someone add any dev
+global.prems = ['put-premium-user-number','2348123035565']
+global.nomorbot = '2349035269262' //Change it to your own
+global.nomorown = '2348123035565' //Change it to your own
+global.namebot = 'Tims Bot' //change it to your own
+global.nameown = 'Tim-Sensei👿' // change it to your own
 
 //*============= ==============*/
 
@@ -48,9 +48,9 @@ global.org = 'org-hE49SehUQEPAGJAy20yr4Om9'   // Get you Org-Key from 'https://p
 
 
 /*============= TAIMU =============*/
-let wibh = moment.tz('Asia/Dhaka').format('HH')
-    let wibm = moment.tz('Asia/Dhaka').format('mm')
-    let wibs = moment.tz('Asia/Dhaka').format('ss')
+let wibh = moment.tz('Africa/lagos').format('HH')
+    let wibm = moment.tz('Africa/lagos').format('mm')
+    let wibs = moment.tz('Africa/lagos').format('ss')
     let wktuwib = `${wibh} H ${wibm} M ${wibs} S`
     
     let d = new Date(new Date + 3600000)
@@ -71,11 +71,11 @@ let wibh = moment.tz('Asia/Dhaka').format('HH')
 /*============== SOCIAL ==============*/
 
 // if you don't have it, type "-" or leave it alone so that there are credits :v
-global.sig = 'https://instagram.com/sla.sher_' //Link Instagrammu
-global.sgh = 'https://github.com/X-S-L-A-S-H-E-R/X-GEN-MD' //Link Githubmu
-global.sgc = 'https://chat.whatsapp.com/Iah40dk4H2EClu9HqlCxdH'
+global.sig = '-' //Link Instagrammu
+global.sgh = '-' //Link Githubmu
+global.sgc = '-'
 global.sdc = '-' //Fill it out using the Discord link, if there is one, just leave it
-global.snh = 'https://nhentai.net/g/HaramTod' //Hmmm, This is up to you to fill in :v
+global.snh = '-' //Hmmm, This is up to you to fill in :v
 
 /*============== PAYMENT ==============*/
 global.pdana = '085736178354' //Nomor Danamu
